@@ -8,7 +8,7 @@ Pour les possesseurs d'un compte GMail, il est possible de travailler dans son G
 
 Dans son Drive, cliquer sur "Nouveau", "Associer plus d'applications".
 Dns la barre de recherche, entrer "Colaboratory", puis l'installer
-![image](https://github.com/othoni-hub/PrepHEC/assets/55344994/bb950d77-e281-4424-8666-37b3a4c1c810) =280x150
+![image](https://github.com/othoni-hub/PrepHEC/assets/55344994/bb950d77-e281-4424-8666-37b3a4c1c810) 
 
 
 
